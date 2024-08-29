@@ -69,7 +69,3 @@ the tests, execute the script and observe the outputs.
 Contribution
 -------------
 Feel free to contribute to this project by submitting issues or pull requests.
-
-License
--------
-This project is licensed under the MIT License. See the LICENSE file for details.
